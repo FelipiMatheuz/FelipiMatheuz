@@ -56,7 +56,7 @@ Built BFFs and microservices supporting mobile and web clients. Led ERP moderniz
 
 ## Personal Projects
 
-**Block Breaker** — Space-themed Breakout game for Android
+**Block Breaker** — Space-themed *Breakout*-style game for Android
 Built with Kotlin, Jetpack Compose, Material 3, Hilt, Room, and Firebase using an MVI architecture. Features native animations, persistent game data, and scalable game-loop design developed with AI-assisted tooling.
 
 **Shithead** — Android adaptation of the card game
@@ -72,6 +72,6 @@ Built with Kotlin, Jetpack Compose, Material 3, and MVVM. Implements flexible ru
 
 ## Contact
 
-Open to senior and staff-level Android roles at product-led companies, with a strong preference for remote-first, international teams.
+Best reached via LinkedIn. Actively considering senior and staff-level Android positions with meaningful technical scope.
 
 **LinkedIn:** [linkedin.com/in/felipimatheuz](https://linkedin.com/in/felipimatheuz)
