@@ -1,12 +1,13 @@
 # Felipi Matheus
 
-**Senior Android Engineer** &nbsp;|&nbsp; Mobile Developer &nbsp;|&nbsp; Open to US, Europe & Remote-First Opportunities
+**Senior Android Engineer building secure, scalable Android systems for high-complexity products**  
+Mobile Developer &nbsp;|&nbsp; Open to US, Europe & Remote-First Opportunities
 
 ---
 
-## Summary
+## Professional Summary
 
-Senior Software Engineer with a Bachelor's in Software Engineering and 7+ years of experience delivering high-complexity Android applications across Finance and Telecom. Specializes in hardware-backed security, multi-module architectures, and performance-critical systems. Has led technical initiatives end-to-end — from architecture decisions and security library design to onboarding, authentication, and high-scale modular features. Brings a privacy-first engineering mindset and integrates AI-assisted workflows to improve reliability and code quality. Equally effective as an individual contributor and as a technical leader driving measurable outcomes.
+Senior Software Engineer currently completing a Bachelor's in Software Engineering, with 7+ years of experience delivering Android products in Finance and Telecom. Specializes in hardware-backed security, multi-module architectures, and performance-critical mobile systems. Has taken ownership of technical initiatives end-to-end — from cryptographic library design and concurrency-safe storage to onboarding, authentication, and dynamic UI platforms. Combines a privacy-first engineering mindset with AI-assisted workflows to improve reliability, maintainability, and delivery quality. Operates effectively as both a senior individual contributor and a technical leader in high-stakes product environments.
 
 ---
 
@@ -29,7 +30,7 @@ Retrofit · OkHttp · Firebase · REST APIs · BFF · Microservices · WebView
 
 ---
 
-## Engineering Experience
+## Selected Work & Engineering Experience
 
 **Finance — Senior Android Engineer**
 Led delivery of features within a large-scale modular Android codebase. Owned security-critical components, authentication flows, and onboarding systems serving high-volume user bases. Transitioned from B2B support into full technical ownership and leadership.
