@@ -57,17 +57,17 @@ Built BFFs and microservices supporting mobile and web clients. Led ERP moderniz
 
 ## Personal Projects
 
-**Block Breaker** — Space-themed *Breakout*-style game for Android
-Built with Kotlin, Jetpack Compose, Material 3, Hilt, Room, and Firebase using an MVI architecture. Features native animations, persistent game data, and scalable game-loop design developed with AI-assisted tooling.
+- **Block Breaker** — Space-themed *Breakout*-style game for Android  
+  Built with Kotlin, Jetpack Compose, Material 3, Hilt, Room, and Firebase using an MVI architecture. Features native animations, persistent game data, and scalable game-loop design developed with AI-assisted tooling.
 
-**Shithead** — Android adaptation of the card game
-Built with Kotlin, Jetpack Compose, Material 3, and MVVM. Implements flexible rule configurations and a fully native, modern UI.
+- **Shithead** — Android adaptation of the card game  
+  Built with Kotlin, Jetpack Compose, Material 3, and MVVM. Implements flexible rule configurations and a fully native, modern UI.
 
 ---
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipiMatheuz&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=default)
+Profile activity, repositories, and contribution history are available directly below on GitHub.
 
 ---
 
