@@ -1,4 +1,4 @@
-# Felipi Matheus Oliveira
+# Felipi Matheuz Oliveira
 
 **Senior Android Engineer** | Secure, Scalable Mobile Systems | Engaging & Impactful UI | Modern Android Architectures
 
